@@ -1,0 +1,11 @@
+# Preface {.unnumbered}
+
+```{R}
+system("quarto --version")
+```
+
+
+Let's talk about the bootstrap! [@Efron1979boot;@davison1997bootstrap;@efron2003second;@EfronHastie2016a] 
+
+It's a resampling methodology originally created to compute the sampling distribution of statistics using minimal probabilistic assumptions.
+

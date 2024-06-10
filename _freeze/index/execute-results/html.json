@@ -1,0 +1,15 @@
+{
+  "hash": "37a6ecccaae57bd40d29332b1ee8cbf2",
+  "result": {
+    "engine": "knitr",
+    "markdown": "# Preface {.unnumbered}\n\n\n\n\n\n::: {.cell}\n\n:::\n\n\n\n\n\n\nLet's talk about the bootstrap! [@Efron1979boot;@davison1997bootstrap;@efron2003second;@EfronHastie2016a] \n\nIt's a resampling methodology originally created to compute the sampling distribution of statistics using minimal probabilistic assumptions.\n\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

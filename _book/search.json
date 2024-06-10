@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hover-over names",
+    "section": "",
+    "text": "Preface\nLet’s talk about the bootstrap! (Efron 1979, 2003; Davison and Hinkley 1997; Efron and Hastie 2016)\nIt’s a resampling methodology originally created to compute the sampling distribution of statistics using minimal probabilistic assumptions.\n\n\n\n\nDavison, A, and D Hinkley. 1997. Bootstrap Methods and Their Application. Cambridge University Press.\n\n\nEfron, B. 1979. “Bootstrap Methods: Another Look at the Jackknife.” The Annals of Statistics 7 (1): 1–26.\n\n\n———. 2003. “Second Thoughts on the Bootstrap.” Statistical Science, 135–40.\n\n\nEfron, B, and T Hastie. 2016. Computer Age Statistical Inference. Cambridge University Press.",
+    "crumbs": [
+      "Preface"
+    ]
+  }
+]
